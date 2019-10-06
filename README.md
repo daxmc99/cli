@@ -996,6 +996,7 @@ func main() {
 }
 
 ```
+![](https://media.giphy.com/media/S3gyjumR56IpDyH23r/giphy.gif)
 
 #### Custom auto-completion
 <!-- {
@@ -1045,6 +1046,7 @@ func main() {
   }
 }
 ```
+![](https://media.giphy.com/media/efIYFuQYnHktmduPnN/giphy.gif)
 
 #### Enabling
 
@@ -1142,6 +1144,10 @@ PROG=<myprogram>
 _CLI_ZSH_AUTOCOMPLETE_HACK=1
 source  path/to/autocomplete/zsh_autocomplete
 ```
+#### ZSH default auto-complete example
+![](https://media.giphy.com/media/jQyXOr5VnOj3NSjjCt/giphy.gif)
+#### ZSH custom auto-complete example
+![](https://media.giphy.com/media/kaNJxgXPPmhJNTE0Jb/giphy.gif)
 
 ### Generated Help Text
 
