@@ -10,61 +10,7 @@ cli is a simple, fast, and fun package for building command line apps in Go. The
 goal is to enable developers to write fast and distributable command line
 applications in an expressive way.
 
-<<<<<<< HEAD
 ## Usage Documentation
-=======
-<!-- toc -->
-
-- [Overview](#overview)
-- [Installation](#installation)
-  * [Supported platforms](#supported-platforms)
-  * [Using the `v2` branch](#using-the-v2-branch)
-  * [Using `v1` releases](#using-v1-releases)
-- [Getting Started](#getting-started)
-- [Examples](#examples)
-  * [Arguments](#arguments)
-  * [Flags](#flags)
-    + [Placeholder Values](#placeholder-values)
-    + [Alternate Names](#alternate-names)
-    + [Ordering](#ordering)
-    + [Values from the Environment](#values-from-the-environment)
-    + [Values from files](#values-from-files)
-    + [Values from alternate input sources (YAML, TOML, and others)](#values-from-alternate-input-sources-yaml-toml-and-others)
-    + [Precedence](#precedence)
-  * [Subcommands](#subcommands)
-  * [Subcommands categories](#subcommands-categories)
-  * [Exit code](#exit-code)
-  * [Combining short options](#combining-short-options)
-  * [Bash Completion](#bash-completion)
-    + [Default auto-completion](#default-auto-completion)
-    + [Custom auto-completion](#custom-auto-completion)
-    + [Enabling](#enabling)
-    + [Distribution and Persistent Autocompletion](#distribution-and-persistent-autocompletion)
-    + [Customization](#customization)
-    + [ZSH Support](#zsh-support)
-    + [ZSH default auto-complete example](#zsh-default-auto-complete-example)
-    + [ZSH custom auto-complete example](#zsh-custom-auto-complete-example)
-  * [Generated Help Text](#generated-help-text)
-    + [Customization](#customization-1)
-  * [Version Flag](#version-flag)
-    + [Customization](#customization-2)
-    + [Full API Example](#full-api-example)
-- [Contribution Guidelines](#contribution-guidelines)
-
-<!-- tocstop -->
-
-## Overview
-
-Command line apps are usually so tiny that there is absolutely no reason why
-your code should *not* be self-documenting. Things like generating help text and
-parsing command flags/options should not hinder productivity when writing a
-command line app.
-
-**This is where cli comes into play.** cli makes command line programming fun,
-organized, and expressive!
-
-## Installation
->>>>>>> Removed extraneous 'cli' link in the table of contents
 
 Usage documentation exists for each major version. Don't know what version you're on? You're probably using the version from the `master` branch, which is currently `v2`.
 
